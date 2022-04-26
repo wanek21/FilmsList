@@ -14,5 +14,5 @@ data class Film(
 
     @SerializedName("display_title")
     @Expose
-    val imageUrl: String
+    val posterImageUrl: String
 )
